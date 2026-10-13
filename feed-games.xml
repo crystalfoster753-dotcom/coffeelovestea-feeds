@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CoffeeLovesTea Video Games</title>
+    <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3#games</link>
+    <atom:link href="https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3/feed-games.xml" rel="self" type="application/rss+xml" />
+    <description>News from the Coffeehouse Arcade — Espresso the red panda runs the video games at CoffeeLovesTea. Updates, announcements, and spotlights for Coffeehouse Rush, Bean Catch, Song Memory Match, and Field Goal Kick. All four games are free to play.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Oct 2026 05:58:00 -0500</lastBuildDate>
+
+    <item>
+      <title>Announcement: CoffeeLovesTea games are live on Playgama's test sandbox</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3#games</link>
+      <guid isPermaLink="false">coffeelovestea-games-playgama-sandbox</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 -0500</pubDate>
+      <category>Games</category>
+      <description>All four CoffeeLovesTea games passed Playgama's build check and are published in their test sandbox — open it, play all four, and share it around. The games are free, as always.</description>
+    </item>
+
+    <item>
+      <title>Update: gameplay screenshots added on itch.io</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3#games</link>
+      <guid isPermaLink="false">coffeelovestea-games-itch-screenshots</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 -0500</pubDate>
+      <category>Games</category>
+      <description>Each CoffeeLovesTea game on itch.io now shows a real gameplay screenshot, so you can peek inside Coffeehouse Rush, Bean Catch, Song Memory Match, and Field Goal Kick before you play. All free.</description>
+    </item>
+
+    <item>
+      <title>Announcement: find our games on itch.io, Game Jolt, and SlowDen</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3#games</link>
+      <guid isPermaLink="false">coffeelovestea-games-platforms-live</guid>
+      <pubDate>Sat, 03 Oct 2026 12:00:00 -0500</pubDate>
+      <category>Games</category>
+      <description>The Coffeehouse Arcade is out in the world — all four games are live and free on itch.io, Game Jolt, and SlowDen. Pick your favorite corner of the internet and come play.</description>
+    </item>
+
+    <item>
+      <title>Game spotlight: Coffeehouse Rush</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3#games</link>
+      <guid isPermaLink="false">coffeelovestea-game-coffeehouse-rush</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 -0500</pubDate>
+      <category>Games</category>
+      <description>Pour coffee and keep the coffeehouse moving in Coffeehouse Rush — the first game in the Coffeehouse Arcade, free to play right on your phone. Espresso runs the arcade.</description>
+    </item>
+
+    <item>
+      <title>Game spotlight: Bean Catch</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3#games</link>
+      <guid isPermaLink="false">coffeelovestea-game-bean-catch</guid>
+      <pubDate>Mon, 28 Sep 2026 12:00:00 -0500</pubDate>
+      <category>Games</category>
+      <description>Catch the falling beans in Bean Catch — a quick, cozy arcade game in the Coffeehouse Arcade, free to play right on your phone. Espresso runs the arcade.</description>
+    </item>
+
+    <item>
+      <title>Game spotlight: Song Memory Match</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3#games</link>
+      <guid isPermaLink="false">coffeelovestea-game-song-memory-match</guid>
+      <pubDate>Sun, 27 Sep 2026 12:00:00 -0500</pubDate>
+      <category>Games</category>
+      <description>Match the songs in Song Memory Match — a memory game built around the CoffeeLovesTea radio station, free to play right on your phone. Espresso runs the arcade.</description>
+    </item>
+
+    <item>
+      <title>Game spotlight: Field Goal Kick</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3#games</link>
+      <guid isPermaLink="false">coffeelovestea-game-field-goal-kick</guid>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 -0500</pubDate>
+      <category>Games</category>
+      <description>Kick a field goal in Field Goal Kick — our football-season game in the Coffeehouse Arcade, free to play right on your phone. Espresso runs the arcade.</description>
+    </item>
+  </channel>
+</rss>

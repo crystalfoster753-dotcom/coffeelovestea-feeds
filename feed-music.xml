@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CoffeeLovesTea Music</title>
+    <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3</link>
+    <atom:link href="https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3/feed-music.xml" rel="self" type="application/rss+xml" />
+    <description>The latest songs from the CoffeeLovesTea radio station — Bean the black bear at the turntables, spinning football-season favorites, cozy fall songs, horror after dark, and gentle dreamscape instrumentals. The station is always free to listen.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Oct 2026 05:58:00 -0500</lastBuildDate>
+
+    <item>
+      <title>New song: “First Date”</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3</link>
+      <guid isPermaLink="false">coffeelovestea-music-first-date</guid>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 -0500</pubDate>
+      <category>Music</category>
+      <description>The newest song to join the CoffeeLovesTea radio station. Settle in with a warm cup and press play — the station is always free.</description>
+    </item>
+
+    <item>
+      <title>New song: “Dread” — horror after dark</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3</link>
+      <guid isPermaLink="false">coffeelovestea-music-dread</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 -0500</pubDate>
+      <category>Music</category>
+      <description>“Dread” joins the after-dark lineup on the free CoffeeLovesTea radio station — a horror song for spooky nights, with the lyrics shown word by word as they are sung.</description>
+    </item>
+
+    <item>
+      <title>Coming in December: the Thriller Collection</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3</link>
+      <guid isPermaLink="false">coffeelovestea-music-december-thriller-collection</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 -0500</pubDate>
+      <category>Music</category>
+      <description>Ten psychological thriller songs are headed to the free CoffeeLovesTea radio station this December: Who's in My House, Inside My Head Tonight, Who's Calling Me, Psychological Thriller, There's a Stranger in Our House, Who's in My House (Part 2), The Police Are There, Coffeehouse Thriller, The Mirror Lied, and The Last Customer.</description>
+    </item>
+
+    <item>
+      <title>Football Sundays: “Cold Sweet Tea-n-Football”</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3</link>
+      <guid isPermaLink="false">coffeelovestea-music-cold-sweet-tea-football</guid>
+      <pubDate>Sun, 04 Oct 2026 12:00:00 -0500</pubDate>
+      <category>Music</category>
+      <description>Our football-season favorite now plays in the Sunday 10–11 slot on the free CoffeeLovesTea radio station — cold sweet tea, game day, and Bean at the turntables.</description>
+    </item>
+
+    <item>
+      <title>Spooky season: “Witch's Brew”</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3</link>
+      <guid isPermaLink="false">coffeelovestea-music-witchs-brew</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 -0500</pubDate>
+      <category>Music</category>
+      <description>“Witch's Brew” is stirring on the free CoffeeLovesTea radio station — a spooky-season song for the horror-after-dark hours.</description>
+    </item>
+
+    <item>
+      <title>Dreamscape: “Moonlight Through a Quiet Window”</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3</link>
+      <guid isPermaLink="false">coffeelovestea-music-moonlight-quiet-window</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 -0500</pubDate>
+      <category>Music</category>
+      <description>A gentle light-classical instrumental for winding down — soft piano and strings under a starry sky, from the station's dreamscape sleep music. Free to listen, all night long.</description>
+    </item>
+
+    <item>
+      <title>Dreamscape, redone: “Rain on the Window”</title>
+      <link>https://muse.ai/s/coffeelovestea-website-xlm6gtxkw33h3</link>
+      <guid isPermaLink="false">coffeelovestea-music-rain-on-the-window</guid>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 -0500</pubDate>
+      <category>Music</category>
+      <description>“Rain on the Window” has been remade as a tender light-classical instrumental — part of the station's rain series at light, medium, and heavy intensities. Free to listen on CoffeeLovesTea radio.</description>
+    </item>
+  </channel>
+</rss>
